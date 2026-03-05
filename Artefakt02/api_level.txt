@@ -1,0 +1,3 @@
+package: name='io.appium.android.apis' versionCode='18' versionName='3.1.0' platformBuildVersionName='9' platformBuildVersionCode='28' compileSdkVersion='28' compileSdkVersionCodename='9'
+sdkVersion:'17'
+targetSdkVersion:'28'
