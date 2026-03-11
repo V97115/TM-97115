@@ -1,0 +1,24 @@
+appium-1  | [38;5;112m[Appium][0m Welcome to Appium v3.2.0
+appium-1  | [38;5;112m[Appium][0m The autodetected Appium home path: /home/androidusr/.appium
+appium-1  | [38;5;112m[Appium][0m Attempting to load driver espresso...
+appium-1  | [38;5;112m[Appium][0m Attempting to load driver flutter...
+appium-1  | [38;5;112m[Appium][0m Attempting to load driver gecko...
+appium-1  | [38;5;112m[Appium][0m Requiring driver at /home/androidusr/.appium/node_modules/appium-espresso-driver/build/lib/index.js
+appium-1  | [38;5;112m[Appium][0m EspressoDriver has been successfully loaded in 0.569s
+appium-1  | [38;5;112m[Appium][0m Requiring driver at /home/androidusr/.appium/node_modules/appium-flutter-driver/build/lib/driver.js
+appium-1  | [38;5;112m[Appium][0m FlutterDriver has been successfully loaded in 1.882s
+appium-1  | [38;5;112m[Appium][0m Attempting to load driver uiautomator2...
+appium-1  | [38;5;112m[Appium][0m Requiring driver at /home/androidusr/.appium/node_modules/appium-uiautomator2-driver/build/lib/index.js
+appium-1  | [38;5;112m[Appium][0m AndroidUiautomator2Driver has been successfully loaded in 0.001s
+appium-1  | [38;5;112m[Appium][0m Requiring driver at /home/androidusr/.appium/node_modules/appium-geckodriver/build/lib/index.js
+appium-1  | [38;5;112m[Appium][0m GeckoDriver has been successfully loaded in 1.950s
+appium-1  | [38;5;112m[Appium][0m Appium REST http interface listener started on http://0.0.0.0:4723
+appium-1  | [38;5;112m[Appium][0m You can provide the following URLs in your client code to connect to this server:
+appium-1  | 	http://127.0.0.1:4723/ (only accessible from the same host)
+appium-1  | 	http://172.18.0.2:4723/
+appium-1  | [38;5;112m[Appium][0m Available drivers:
+appium-1  | [38;5;112m[Appium][0m   - espresso@6.3.8 (automationName 'Espresso')
+appium-1  | [38;5;112m[Appium][0m   - flutter@3.3.0 (automationName 'Flutter')
+appium-1  | [38;5;112m[Appium][0m   - gecko@2.1.11 (automationName 'Gecko')
+appium-1  | [38;5;112m[Appium][0m   - uiautomator2@6.7.13 (automationName 'UiAutomator2')
+appium-1  | [38;5;112m[Appium][0m No plugins have been installed. Use the "appium plugin" command to install the one(s) you want to use.
